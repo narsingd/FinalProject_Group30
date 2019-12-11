@@ -1,0 +1,10 @@
+pandas
+numpy
+ipywidgets
+nbinteract
+tensorflow
+sklearn
+seaborn
+nltk
+gensim
+statsmodels
